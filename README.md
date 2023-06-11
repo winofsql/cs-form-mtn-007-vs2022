@@ -40,6 +40,6 @@ private void Form1_KeyDown(object sender, KeyEventArgs e)
 
 ![image](https://github.com/winofsql/cs-form-mtn-007-vs2022/assets/1501327/ffee1b31-4080-4a5b-9a6a-cebdbdb51d08)
 
-### ステータスバーに社員コードの入力説明を費用時する
+### ステータスバーに社員コードの入力説明を表示する
 
 ![image](https://github.com/winofsql/cs-form-mtn-007-vs2022/assets/1501327/d8921e2e-ffe9-45e3-92cb-f2d0ce117bd3)
