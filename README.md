@@ -46,3 +46,17 @@ private void Form1_KeyDown(object sender, KeyEventArgs e)
 
 ![image](https://github.com/winofsql/cs-form-mtn-007-vs2022/assets/1501327/74fc74e8-e308-48ca-b69c-5111c03b6f5f)
 
+```cs
+// *****************************************
+// タスクバー(ステータスバー)
+// *****************************************
+private void 社員コード_Enter(object sender, EventArgs e)
+{
+    this.ユーザへのメッセージ.Text = "社員コードは 0000 フォーマットで４桁以内で数字で入力します。1～3桁では自動的に 0000 フォーマットに変換します";
+}
+
+private void 社員コード_Leave(object sender, EventArgs e)
+{
+    this.ユーザへのメッセージ.Text = "";
+}
+```
