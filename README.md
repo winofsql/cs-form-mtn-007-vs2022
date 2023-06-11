@@ -43,3 +43,6 @@ private void Form1_KeyDown(object sender, KeyEventArgs e)
 ### ステータスバーに社員コードの入力説明を表示する
 
 ![image](https://github.com/winofsql/cs-form-mtn-007-vs2022/assets/1501327/d8921e2e-ffe9-45e3-92cb-f2d0ce117bd3)
+
+![image](https://github.com/winofsql/cs-form-mtn-007-vs2022/assets/1501327/74fc74e8-e308-48ca-b69c-5111c03b6f5f)
+
