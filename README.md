@@ -31,10 +31,10 @@ private void Form1_KeyDown(object sender, KeyEventArgs e)
 
 }
 ```
-
+ 
 ### F4 : 処理区分を選択して、リストを開く
 
-![image](https://github.com/winofsql/cs-form-mtn-007-vs2022/assets/1501327/8bdc1979-f8d4-4d85-a4dc-ac7502897f18
+![image](https://github.com/winofsql/cs-form-mtn-007-vs2022/assets/1501327/8bdc1979-f8d4-4d85-a4dc-ac7502897f18)
 
 ### F6 : Form2 をモーダルダイアログとして開く
 
