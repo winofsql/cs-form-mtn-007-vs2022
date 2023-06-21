@@ -301,7 +301,7 @@ namespace cs_form_mtn_007_vs2022
         {
             if (this.ヘッド部.Enabled)
             {
-                if (e.KeyCode == Keys.F4)
+                if (e.KeyCode == Keys.F3)
                 {
                     this.処理区分.Focus();
                     this.処理区分.DroppedDown = true;
